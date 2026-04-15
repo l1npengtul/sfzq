@@ -1,5 +1,5 @@
 #include "SettingsParser.h"
-
+#include <cstdint>
 
 void SettingsParser::parse(const SettingHandler& handler)
 {

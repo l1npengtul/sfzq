@@ -4,6 +4,7 @@
 #include <functional>
 #include <map>
 #include <sstream>
+#include <cstdint>
 
 
 class SettingsParser {

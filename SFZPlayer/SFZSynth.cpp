@@ -5,6 +5,7 @@
 #include "MIDINoteFrequency.h"
 #include <sstream>
 #include <stdlib.h>
+#include <cstdint>
 
 
 SFZSynth::SFZSynth(int num_voices)
